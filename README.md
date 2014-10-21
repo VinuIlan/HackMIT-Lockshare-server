@@ -1,7 +1,7 @@
 HackMIT-Lockshare-server
 ========================
 
-Lockshare (Smart Lock) server code
+Lockshare (Smart Lock) server code (Node.js)
 
 This is the server code my team and I used in our project at HackMIT.
 Our app communicates with this server to control your smart lock.
